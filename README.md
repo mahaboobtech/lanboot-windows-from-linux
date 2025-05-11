@@ -14,7 +14,7 @@ Boot Windows operating systems over LAN using a Linux system. This tool uses Qt5
 
 ---
 
-## 📦 Download
+## 📦 Downloads
 
 Download the latest executable from the [Releases](https://github.com/mahaboobtech/lanboot-windows-from-linux/releases) section.
 
